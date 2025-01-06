@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100" height="100" fill="none">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" stroke="#FFD700" stroke-width="2" fill="none"/>
+
+  <!-- Star Icon -->
+  <path d="M32 14l4.09 8.29L45 24l-6.54 6.36L39.91 40 32 35.65 24.09 40l1.45-9.64L19 24l8.91-1.71L32 14z" fill="#FFD700"/>
+
+  <!-- Speech Bubble -->
+  <path d="M12 42c0-7.18 5.82-13 13-13h14c7.18 0 13 5.82 13 13s-5.82 13-13 13H25l-9 5v-5H25c-7.18 0-13-5.82-13-13z" fill="#4CAF50"/>
+
+  <!-- Small Stars for Feedback -->
+  <circle cx="24" cy="46" r="2" fill="#FFD700"/>
+  <circle cx="32" cy="46" r="2" fill="#FFD700"/>
+  <circle cx="40" cy="46" r="2" fill="#FFD700"/>
+</svg>

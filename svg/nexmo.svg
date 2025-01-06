@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- V-shape (Symbolizing Vonage) -->
+  <path d="M16 12 L32 40 L48 12" fill="none" stroke="#6c63ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Curved Connection (Symbolizing Communication) -->
+  <path d="M16 40 C20 50, 44 50, 48 40" fill="none" stroke="#6c63ff" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Circle (Representing Messaging/Voice) -->
+  <circle cx="32" cy="32" r="6" fill="#6c63ff" />
+</svg>

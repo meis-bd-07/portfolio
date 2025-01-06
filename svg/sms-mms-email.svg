@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- SMS Icon -->
+  <rect x="2" y="2" width="16" height="16" rx="2" fill="#4CAF50"/>
+  <path d="M6 8h8v2H6V8zm0 4h5v2H6v-2z" fill="#fff"/>
+  
+  <!-- MMS Icon -->
+  <rect x="22" y="2" width="16" height="16" rx="2" fill="#FFC107"/>
+  <circle cx="30" cy="8" r="3" fill="#fff"/>
+  <path d="M24 16l4-4 4 4h-8z" fill="#fff"/>
+  
+  <!-- Email Icon -->
+  <rect x="12" y="22" width="24" height="16" rx="2" fill="#2196F3"/>
+  <path d="M14 24l12 8 12-8v2l-12 8-12-8v-2z" fill="#fff"/>
+</svg>

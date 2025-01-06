@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Task Cards -->
+  <rect x="8" y="10" width="20" height="10" rx="2" fill="#6c63ff" />
+  <rect x="8" y="25" width="20" height="10" rx="2" fill="#6c63ff" />
+  <rect x="8" y="40" width="20" height="10" rx="2" fill="#6c63ff" />
+  
+  <!-- Droppable Column -->
+  <rect x="36" y="10" width="20" height="40" rx="3" fill="#e6e6e6" stroke="#6c63ff" stroke-width="2" />
+  
+  <!-- Drag Icon -->
+  <line x1="12" y1="12" x2="20" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <line x1="12" y1="15" x2="20" y2="15" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <line x1="12" y1="18" x2="20" y2="18" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Drag and Drop Arrow -->
+  <path d="M28,20 C34,20 38,25 38,25 L45,25 M45,25 L41,21 M45,25 L41,29" fill="none" stroke="#6c63ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

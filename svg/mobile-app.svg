@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Mobile Phone Outline -->
+  <rect x="12" y="4" width="24" height="40" rx="4" fill="#2196F3" stroke="#000" stroke-width="2"/>
+  
+  <!-- Screen -->
+  <rect x="14" y="8" width="20" height="30" rx="2" fill="#fff"/>
+
+  <!-- Home Button -->
+  <circle cx="24" cy="38" r="2" fill="#000"/>
+</svg>

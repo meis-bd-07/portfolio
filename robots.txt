@@ -1,0 +1,8 @@
+# robots.txt for https://softwareelevate.com/
+
+# Allow all robots complete access to everything
+User-agent: *
+Disallow:
+
+# Specify a sitemap for better crawling
+Sitemap: https://softwareelevate.com/sitemap.xml

@@ -1,0 +1,49 @@
+@media (width > 991px) {
+    header{
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    header{
+        display: none;
+    }
+    /* #ftco-navbar{
+        display: none;
+        transition: display 0.3s ease;
+    } */
+    header#bottom_tab_menu {
+        position: fixed;
+        bottom: 5px; /* Position it at the bottom of the viewport */
+        left: 50%; /* Align it horizontally */
+        transform: translateX(-50%); /* Center it horizontally */
+        width: 90%; /* Adjust width as needed */
+        background: #000;
+        border-radius: 50px;
+        text-align: center; /* Optional: Center the text */
+        padding: 10px 20px; /* Optional: Padding for better design */
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for emphasis */
+        z-index: 1000;
+    }
+    #bottom_tab_menu .bottom_tab_ul{
+        align-items: center;
+        justify-content: space-between;
+        padding: 0px 20px;
+        overflow: hidden;
+        display: flex;
+        gap: 10px;
+    }
+    #bottom_tab_menu .nav-item.active a{
+        color: #ffffff; /* #b1b493 */
+        font-weight: 700;
+        transition: font-weight 0.3s ease, color  0.3s ease;
+    }
+}
+
+.gap10{
+    gap: 10px;
+}
+
+.gap5{
+    gap: 5px;
+}

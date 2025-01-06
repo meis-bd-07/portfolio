@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Shop Building -->
+  <rect x="10" y="22" width="44" height="30" rx="3" fill="#f4f4f4" stroke="#6c63ff" stroke-width="2" />
+  <rect x="14" y="28" width="12" height="12" fill="#6c63ff" />
+  <rect x="38" y="28" width="12" height="12" fill="#6c63ff" />
+  <line x1="10" y1="40" x2="54" y2="40" stroke="#6c63ff" stroke-width="2" />
+  
+  <!-- POS Terminal -->
+  <rect x="20" y="8" width="24" height="12" rx="2" fill="#6c63ff" />
+  <rect x="22" y="10" width="20" height="8" rx="1" fill="#f4f4f4" />
+  <line x1="24" y1="12" x2="36" y2="12" stroke="#6c63ff" stroke-width="2" />
+  <line x1="24" y1="14" x2="36" y2="14" stroke="#6c63ff" stroke-width="2" />
+  
+  <!-- Shopping Cart -->
+  <path d="M12,50 L18,50 L20,56 H44 L46,50 L52,50" fill="none" stroke="#6c63ff" stroke-width="2" />
+  <circle cx="22" cy="56" r="2" fill="#6c63ff" />
+  <circle cx="42" cy="56" r="2" fill="#6c63ff" />
+</svg>
